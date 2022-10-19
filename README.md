@@ -1,4 +1,4 @@
-# Jobify
+# Jobify: interview application management MERN project
 
 #### Track Your Job Search
 
